@@ -1,0 +1,15 @@
+3-Amaliyot ishi
+
+Mavzu:  Mini-loyiha uchun jadvallarni yaratish va to‘ldirish.
+Topshiriq№1: Har bir talaba o’ziga berilgan predmet soha bo’yicha jadvallarni ustida 
+quyidagi amallarni bajarsin: 1.Barcha jadvallarni yaratib, ma’lumotlarni kiriting.  
+2.Jadvallarga ustun qo’shib o’zgartiring. 3.Jadvallarni 
+o’chiring.  
+4.Jadval tipini o’zgartiring.  
+5.Jadvaldagi ma’lumotlarni o’chiring.  
+Topshiriq№2: Har bir talabaga berilgan predmet soha uchun so`rovlar yaratishga 
+misollar.   
+1 Jadvaldagi ma’lumotlarni o`zgartirilsin.   
+2 Jadval nomlarini o’zgartirish.  3 Jadvaldagi ma’lumotlarni 
+ekranga chiqarish.  4 Jadval maydonlarini alohida qilib 
+chiqarish.  

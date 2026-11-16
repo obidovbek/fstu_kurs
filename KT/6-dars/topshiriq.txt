@@ -1,0 +1,6 @@
+6-Amaliyot ishi
+Mavzu: Lokal tarmoq loyihalash. Oddiy LAN yaratish, IP berish, ulanishni tekshirish.
+
+Topshiriq:
+1. Har bir talaba o‘z IP manzillar rejasini tuzishi (1-xona – 10.N.1.0/24, 2-xona – 10.N.2.0/24, N – jurnaldagi tartib raqami, masalan, 7-talaba uchun 10.7.1.0/24 va 10.7.2.0/24), Cisco Packet Tracer’da kommutator va 4 ta kompyuterdan iborat 1-xona tarmog‘ini yig‘ib, kompyuterlarga IP manzil berishi va ulanishni ipconfig, ping buyruqlari hamda kommutatorning MAC manzillar jadvali bilan tekshirib, natijasi bilan ko‘rsatib o‘tishi kerak.
+2. Har bir talaba 2-xona tarmog‘ini (kommutator va 2 ta kompyuter) qo‘shib, ikki tarmoqni o‘z familiyasi bilan nomlangan marshrutizator (masalan, R-Karimov) orqali ulashi, kompyuterlarga standart shlyuz berishi va tarmoqlar orasidagi ulanishni ping, tracert, show ip route buyruqlari bilan tekshirib, natijasi bilan ko‘rsatib o‘tishi kerak.

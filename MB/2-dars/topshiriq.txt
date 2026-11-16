@@ -1,0 +1,38 @@
+2-Amaliy mashg’ulot 
+Mavzu: Ma’lumotlar bazasini loyihalash, mohiyat – aloqa diagrammasini qurish. 
+Relyatsion ma’lumotlar bazasini loyihalash  
+Topshiriq №1: Har bir talaba o’ziga berilgan predmet soha bo’yicha ma’lumotlarni 
+mantiqiy va fizik modelini yaratishi kerak. 
+Predmet soha mavzulari 
+1. Sug'urta kompaniyasi 
+2. Mehmonxona 
+3. Lombard 
+4. Tayyor mahsulotlarni sotish 
+5. Buyurtmani boshqarish 
+6. Bandlik byurosi 
+7. Notarial idoralar 
+8. Zaxira buyumlar sotadigan kompaniya 
+9. Malaka oshirish kurslari 
+10. Talabalar uchun fakultetlarni aniqlash 
+11. Dars yuklamalarni taqsimlash 
+12. Qo'shimcha majburiyatlarni taqsimlash 
+13. Mashinalarga texnik xizmat ko'rsatish 
+14. Sayohat agentligi 
+15. Yuk tashish 
+16. Telefon suhbatlarini hisobga olish 
+17. Ofis xarajatlarini hisobga olish 
+18. Kutubxona 
+19. Avtomobillarni ijaraga olish 
+20. Bank kreditlari 
+21. Mavjud mablag'larni investitsiyalash 
+22. Teatr aktyorlarini bandligi 
+23. Pullik klinikasi 
+24. Turli korxonalar moliyaviy hisobotlarning dinamikasini tahlil qilish 
+25. Telekompaniya tomonidan reklama translyatsiya xarajatlarini hisobga olish 
+26. Onlayn do'kon 
+27. Zargarlik ustaxonasi 
+28. Sartarosh 
+29. Ximchiska 
+30. Chakana savdo maydonini ijaraga berish 
+Topshiriq№2: Har bir talaba o’ziga berilgan predmet soha bo’yicha ma’lumotlarning 
+relyatsion modelini yaratishi kerak.

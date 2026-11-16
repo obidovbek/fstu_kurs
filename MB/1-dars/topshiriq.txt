@@ -1,0 +1,4 @@
+Mavzu: Ma’lumotlar bazasi dasturlarini o’rnatish va sozlash(MySql server, 
+Oracle Server, Microsoft Sql Server) 
+Ma’lumotlar bazasi dasturlarini o’rnatish va 
+sozlash(MySql server, Oracle Server, Microsoft Sql Server) 

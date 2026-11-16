@@ -1,0 +1,8 @@
+MB bilan ishlashda tranzaksiyalardan foydalanish. Bir xil jadvalga ikki sessiyadan yozib deadlock hosil qilish va hal qilish.
+Topshiriq 1: Har bir talaba o‘ziga berilgan predmet soha bo‘yicha jadvallarni ustida quyidagi amallarni bajarsin:
+
+1. Tranzaksiyalarni jadvaliga tadbiq qilish.
+
+2. Savepointlardan foydalanish.
+
+ 

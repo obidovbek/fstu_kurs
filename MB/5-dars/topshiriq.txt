@@ -1,0 +1,9 @@
+5-Amaliyot ishi  
+Mavzu: Bir nechta jadvallar birlashtirish, «Join» lar bilan ishlash. 
+Topshiriq:  
+1. 
+Har bir talaba o’ziga berilgan predmet soha mavzusi bo’yicha murakkab 
+so’rovlar yaratishi va natijasi bilan ko’rsatib o’tishi  kerak.  
+2. 
+Har bir talaba o’ziga berilgan predmet soha mavzusi bo’yicha JOIN 
+operatorilaridan foydalanib so’rovlar yaratishi va natijasi bilan ko’rsatib o’tishi  kerak. 

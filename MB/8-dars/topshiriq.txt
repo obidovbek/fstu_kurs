@@ -1,0 +1,8 @@
+Foydalanuvchi rollari (Admin, Manager, Customer) ni yaratish, huquqlarni boshqarish.
+Topshiriq 1: Har bir talaba o‘ziga berilgan predmet soha bo‘yicha jadvallarni ustida quyidagi amallarni bajarsin:
+
+1. User, Admin, editor va viewer yaratish.
+
+2. Admin, editor va viewerlarga ruxsatlar berish.
+
+ 

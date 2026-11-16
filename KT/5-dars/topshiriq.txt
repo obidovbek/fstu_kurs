@@ -1,0 +1,5 @@
+5-Amaliyot ishi
+Mavzu: Kommutatorlarda dastlabki konfiguratsiya. CLI asoslari, hostname, banner, parollar.
+Topshiriq:
+1. Har bir talaba Cisco Packet Tracer’da kommutator va kompyuterdan iborat topologiya yig‘ishi, kommutatorga konsol orqali ulanishi va CLI rejimlari orasida o‘tishni natijasi bilan ko‘rsatib o‘tishi kerak.
+2. Har bir talaba kommutatorga o‘z familiyasi bilan nom (masalan, SW-Karimov), o‘z ismi yozilgan ogohlantirish matni va parollar (enable secret, konsol, vty) berishi, ularni show running-config, konsol va Telnet orqali tekshirib, konfiguratsiyani saqlashi va natijasi bilan ko‘rsatib o‘tishi kerak.
