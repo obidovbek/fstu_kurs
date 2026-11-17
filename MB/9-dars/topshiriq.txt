@@ -1,0 +1,17 @@
+MB bilan ishlashda funksiyalar va triggerlardan foydalanish.  
+Topshiriq: Har bir talaba quyidagi funksiyani  yaratishi va natijasi bilan 
+ko‘rsatib o‘tishi  kerak. 
+№ Funksiya nomi 
+1. 
+Minus 
+Bo‘lish 
+1.  
+2.  
+Ildiz 
+Modul 
+3.  
+4.  
+5.  
+Ustunlarni birlashtirish 
+Mavjud standart funksiyalar(10-lab)dan foydalanib  yangi 
+funksiya yaratish.
